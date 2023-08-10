@@ -1,4 +1,4 @@
 <div>
-     https://github-readme-stats.vercel.app/api?username=Baetmateus)](https://github.com/Baetmateus/github-readme-stats)
+     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baetmateus)](https://github.com/Baetmateus/github-readme-stats)
 </div>
 
