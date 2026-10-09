@@ -27,7 +27,7 @@ Software Developer from Brazil, focused on C#/.NET, APIs, integrations, database
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Baetmateus/Baetmateus/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Baetmateus/Baetmateus/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
