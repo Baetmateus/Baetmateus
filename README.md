@@ -1,28 +1,34 @@
-# 👋 E aí!
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=120&section=header)
 
- Me chamo Mateus Baeta e, desde sempre, tenho sido fascinado por tecnologia. Hoje, me encontro no mundo do front-end, onde trago um toque de alegria para o código, dando vida a ideias através de interfaces envolventes. Estou em constante evolução, sempre buscando novas formas de aprimorar minhas habilidades. Adoro testemunhar a mágica que acontece quando as coisas tomam forma.
+<div align="center">
 
- My name is Mateus Baeta, and I've been fascinated by technology for as long as I can remember. Today, I'm in the world of front-end development, where I bring a touch of joy to the code, breathing life into ideas through captivating interfaces. I'm constantly evolving, always seeking new ways to enhance my skills. I love witnessing the magic that happens when things take shape.
- 
- 
- <div style="display: inline_block"><br>
-     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;C%23+%7C+.NET+Developer;Backend+%26+API+Development;Always+learning+and+building)](https://git.io/typing-svg)
+
+Software Developer from Brazil, focused on C#/.NET, APIs, integrations, databases, and web applications.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,sqlserver,git&theme=dark" alt="Technologies" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mateus-baeta-1a039b279/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Baetmateus&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Baetmateus&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baetmateus&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Baetmateus/Baetmateus/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
 </div>
 
-##
-
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=BaetMateus&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaetMateus&theme=dark&hide_border=false"  width="400px" />
-
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=BaetMateus&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 
-
-<div>
- <a href="https://www.linkedin.com/in/mateus-baeta-1a039b279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=80&section=footer)
